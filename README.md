@@ -33,7 +33,7 @@
 
 # 🤝🏻 My Contribution Stats
 
-[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=ubaidahmed04)](https://github.com/LordDashMe/github-contribution-stats/)
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=hanzala-bawany)](https://github.com/LordDashMe/github-contribution-stats/)
 
 ---
 
