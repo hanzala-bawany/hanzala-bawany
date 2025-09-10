@@ -37,15 +37,6 @@
 
 ---
 
-# 🏆 My Github Profile Trophies
-
-<div align="center">
-  <img
-    src="https://github-trophies.vercel.app/?username=hanzala-bawany&theme=dracula&row=4&column=3&margin-w=5&margin-h=5" alt="Github Profile Trophy"
-  />
-</div>
-
----
 
 # 💭 Inspirational Quote
 
