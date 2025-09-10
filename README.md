@@ -7,7 +7,7 @@
 
 ---
 
-![](https://github.com/ubaidahmed04/ubaidahmed04/blob/main/banner.jpg)
+![](https://github.com/hanzala-bawany/hanzala-bawany/blob/main/readme%20bg.jpg)
 <br>
 
 <!-- Introduction -->
