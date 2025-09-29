@@ -19,21 +19,17 @@
     Welcome to my GitHub profile 👋🏻
   </h1>
 
- 👦🏻 My name is **hanzala bawany**. I'm a Computer Science  Engineering student with a passion for building web applications using modern technologies,  and currently living in karachi , Pakistan.  <br/>
- 👨🏻‍💼 I'm studying BS Software Engineering at SMIU University. <br/>
- 💪🏻 At the moment,I am working on full-stack projects to improve my skills and gain experience. <br/>
+ 👦🏻 My name is **hanzala bawany**. I'm a Software Engineering student with a passion for building web applications using modern technologies,  and currently living in karachi , Pakistan.  <br/>
+ 👨🏻‍💼 I'm studying **BS Software Engineering at SMIU University**. <br/>
+ 💪🏻 At the moment,I am working at Software Company to improve my skills and gain experience. <br/>
  👨🏻‍💻 Feel free to reach out or connect with me! ✨ <br/>
- 👨🏻‍💻 Want to know more about me? Check out my &nbsp;
-  <a href="https://ubaidahmed.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" />
-  </a>
 </div>
 
 ---
 
 # 🤝🏻 My Contribution Stats
 
-[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=hanzala-bawany)](https://github.com/LordDashMe/github-contribution-stats/)
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=hanzala-bawany)]
 
 ---
 
@@ -68,24 +64,11 @@
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               40 repos            ████████░░░░░░░░░░░░░░░░░   76.12 % 
-html                   4 repos             ████░░░░░░░░░░░░░░░░░░░░░   11.55 % 
-css               5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.38 % 
+JavaScript               40 repos           76.12 % 
+html                   4 repos           11.55 % 
+css               5 repos           12.38 % 
 ```
 
-
-
-# 📶 My GitRoll Stats
-
-<div align="center">
-  <a href="https://gitroll.io/profile/upI4dJZkF35dnV1sFhuYz5qQZK813" target="_blank">
-    <img
-      src="https://gitroll.io/api/badges/profiles/v1/upI4dJZkF35dnV1sFhuYz5qQZK813"
-      alt="GitRoll Profile Badge"
-      height="300" width="600"
-    />
-  </a>
-</div>
 
 ---
 
