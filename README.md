@@ -43,30 +43,13 @@
 ---
 
 
-# 📊 My WakaTime Stats
-
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-196%20hrs%2049%20mins-blue)
-
-
-**🐱 My GitHub Data** 
-
-> 📦 ? Used in GitHub's Storage 
- > 
-> 💼 Opted to Hire
- > 
-> 📜 60 Public Repositories 
- > 
-> 🔑 10 Private Repositories 
- > 
-
 
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               40 repos           76.12 % 
-html                   4 repos           11.55 % 
-css               5 repos           12.38 % 
+JavaScript                        76.12 % 
+html                          11.55 % 
+css                      12.38 % 
 ```
 
 
@@ -80,13 +63,12 @@ css               5 repos           12.38 %
       <h3>📋 Programming Languages</h3>
     </td>
     <td valign="top">
-      <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-      <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-      <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+      <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
+      <img src="https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css&logoColor=white" alt="CSS" />
+      <img src="https://img.shields.io/badge/SCSS-hotpink.svg?style=for-the-badge&logo=sass&logoColor=white" alt="SCSS" />
+      <img src="https://img.shields.io/badge/C-Lang-%2320232a.svg?style=for-the-badge&logo=C-Lang&logoColor=%2361DAFB" alt="C-Lang" />
+      <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
       <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
-      <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
-      <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown" />
-      <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   </td>
   </tr>
   <tr>
@@ -94,11 +76,8 @@ css               5 repos           12.38 %
       <h3>💾 Databases</h3>
     </td>
     <td valign="top">
-      <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+      <img src="https://img.shields.io/badge/Oracle-F80000.svg?style=for-the-badge&logo=oracle&logoColor=white" alt="MySQL" />
       <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-      <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="MS SQL Server" />
-      <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-      <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
     </td>
   </tr>
   <tr>
@@ -106,6 +85,7 @@ css               5 repos           12.38 %
       <h3>📚 Frameworks, Platforms & Libraries</h3>
     </td>
     <td valign="top">
+      <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
       <img src="https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white" alt="AntDesign" />
       <img src="https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white" alt="Chakra UI" />
       <img src="https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white"
