@@ -20,7 +20,7 @@
   </h1>
 
  👦🏻 My name is **hanzala bawany**. I'm a Software Engineering student with a passion for building web applications using modern technologies,  and currently living in karachi , Pakistan.  <br/>
- 👨🏻‍💼 I'm studying **BS Software Engineering at SMIU University**. <br/>
+ 👨🏻‍💼 I'm studying **BS Software Engineering at SMI University**. <br/>
  💪🏻 At the moment,I am working at Software Company to improve my skills and gain experience. <br/>
  👨🏻‍💻 Feel free to reach out or connect with me! ✨ <br/>
 </div>
