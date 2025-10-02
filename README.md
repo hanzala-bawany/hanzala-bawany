@@ -53,18 +53,6 @@
 ---
 
 
-
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript                        76.12 % 
-html                          11.55 % 
-css                      12.38 % 
-```
-
-
----
-
 # 💻 My Tech Stack
 
 <table align="center" width="100%">
@@ -115,30 +103,10 @@ css                      12.38 %
   </tr>
   <tr>
     <td align="center" width="200" valign="top">
-      <h3>🕓 Version Control</h3>
-    </td>
-    <td valign="top">
-      <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-      <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-      <img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="200" valign="top">
-      <h3>🔬 CI</h3>
-    </td>
-    <td valign="top">
-      <img src="https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab CI"/>
-      <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="200" valign="top">
       <h3>🔨 Tools & Editors</h3>
     </td>
     <td valign="top">
       <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code" />
-      <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" alt="PyCharm" />
     </td>
   </tr>
   <tr>
@@ -146,8 +114,8 @@ css                      12.38 %
       <h3>🥅 Others</h3>
     </td>
     <td valign="top">
-      <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
       <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+      <img src="https://img.shields.io/badge/ThunderClient-5C4BDB?style=for-the-badge&logo=thunder-client&logoColor=white" alt="Thunder Client" />
     </td>
   </tr>
 </table>
@@ -157,7 +125,6 @@ css                      12.38 %
 <div align="center">
   <h1>🐍 My Contributions 🐍</h1>
   <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ubaidahmed04&theme=dracula&hide_border=true" alt="contribution graph" />
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/dhlananhh/dhlananhh/output/github-contribution-grid-snake-light.svg" />
 </div>
 
