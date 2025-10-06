@@ -120,13 +120,6 @@
   </tr>
 </table>
 
----
-
-<div align="center">
-  <h1>🐍 My Contributions 🐍</h1>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/dhlananhh/dhlananhh/output/github-contribution-grid-snake-light.svg" />
-</div>
 
 ---
 
